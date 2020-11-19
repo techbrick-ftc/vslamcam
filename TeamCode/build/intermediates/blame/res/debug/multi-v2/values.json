@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/techbrickftc/bluerobot/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/techbrickftc/vslamcam/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/techbrickftc/.gradle/caches/transforms-2/files-2.1/1af8e4560487e7249d99e5156a77e036/jetified-FtcCommon-6.0.1/res/values/values.xml",
@@ -150,7 +150,24 @@
                     }
                 },
                 {
-                    "source": "/home/techbrickftc/bluerobot/FtcRobotController/build/intermediates/packaged_res/debug/values/values.xml",
+                    "source": "/home/techbrickftc/.gradle/caches/transforms-2/files-2.1/897e84df2ae5460309033705772e6fc5/jetified-Inspection-6.0.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "217,281,342,389,475,563",
+                        "endColumns": "63,60,46,85,87,66",
+                        "endOffsets": "276,337,384,470,558,625"
+                    },
+                    "to": {
+                        "startLines": "743,1082,1083,1108,1109,1178",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "49856,79596,79657,82598,82684,88291",
+                        "endColumns": "63,60,46,85,87,66",
+                        "endOffsets": "49915,79652,79699,82679,82767,88353"
+                    }
+                },
+                {
+                    "source": "/home/techbrickftc/vslamcam/FtcRobotController/build/intermediates/packaged_res/debug/values/values.xml",
                     "from": {
                         "startLines": "2,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,27,29,31,33,35",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -166,23 +183,6 @@
                         "endLines": "17,346,347,492,529,563,657,719,744,866,1011,1019,1079,1137,1142,1145,1344,1346,1348,1350,1352,1354",
                         "endColumns": "18,57,54,49,57,51,69,47,66,74,77,65,55,65,81,151,12,12,12,12,12,12",
                         "endOffsets": "739,19094,19149,29396,32296,36364,43279,48145,49982,61545,74185,74834,79457,85078,85425,85880,99030,99102,99176,99250,99318,99388"
-                    }
-                },
-                {
-                    "source": "/home/techbrickftc/.gradle/caches/transforms-2/files-2.1/897e84df2ae5460309033705772e6fc5/jetified-Inspection-6.0.1/res/values/values.xml",
-                    "from": {
-                        "startLines": "5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "217,281,342,389,475,563",
-                        "endColumns": "63,60,46,85,87,66",
-                        "endOffsets": "276,337,384,470,558,625"
-                    },
-                    "to": {
-                        "startLines": "743,1082,1083,1108,1109,1178",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "49856,79596,79657,82598,82684,88291",
-                        "endColumns": "63,60,46,85,87,66",
-                        "endOffsets": "49915,79652,79699,82679,82767,88353"
                     }
                 },
                 {

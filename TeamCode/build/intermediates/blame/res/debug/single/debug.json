@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/techbrickftc/bluerobot/TeamCode/build/intermediates/res/merged/debug/raw_readme.md.flat",
-        "source": "/home/techbrickftc/bluerobot/TeamCode/src/main/res/raw/readme.md"
+        "merged": "/home/techbrickftc/vslamcam/TeamCode/build/intermediates/res/merged/debug/raw_readme.md.flat",
+        "source": "/home/techbrickftc/vslamcam/TeamCode/src/main/res/raw/readme.md"
     },
     {
-        "merged": "/home/techbrickftc/bluerobot/TeamCode/build/intermediates/res/merged/debug/xml_teamwebcamcalibrations.xml.flat",
-        "source": "/home/techbrickftc/bluerobot/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml"
+        "merged": "/home/techbrickftc/vslamcam/TeamCode/build/intermediates/res/merged/debug/xml_teamwebcamcalibrations.xml.flat",
+        "source": "/home/techbrickftc/vslamcam/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml"
     }
 ]

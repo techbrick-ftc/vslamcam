@@ -25,7 +25,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../../TeamCode/build/intermediates/javac/debug/classes" />
     <output-test url="file://$MODULE_DIR$/../../../TeamCode/build/intermediates/javac/debugUnitTest/classes" />
     <exclude-output />
@@ -98,8 +98,8 @@
     <orderEntry type="library" name="Gradle: org.firstinspires.ftc:RobotServer:6.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.firstinspires.ftc:Hardware:6.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.firstinspires.ftc:FtcCommon:6.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.spartronics4915.lib:ftc265:2.1.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.arcrobotics:ftclib:1.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.spartronics4915.lib:ftc265:2.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.arcrobotics:ftclib:2.0.11@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.openftc:easyopencv:1.4.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.openftc:opencv-repackaged:4.1.0-C@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.intel.realsense:librealsense:2.34.0-ftc265@aar" level="project" />
