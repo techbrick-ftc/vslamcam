@@ -33,8 +33,14 @@ public class TestCameraOpMode extends OpMode
 
     @Override
     public void init() {
+        telemetry.addLine("before if");
+        telemetry.update();
         if (slamra == null) {
+            telemetry.addLine("before t265 init");
+            telemetry.update();
             slamra = new T265Camera(new Transform2d(), 0.1, hardwareMap.appContext);
+            telemetry.addLine("after t265 init");
+            telemetry.update();
         }
     }
 
