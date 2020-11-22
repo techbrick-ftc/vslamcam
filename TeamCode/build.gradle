@@ -25,6 +25,6 @@ repositories {
 dependencies {
     annotationProcessor files('lib/OpModeAnnotationProcessor.jar')
     implementation "org.openftc:easyopencv:1.4.1"
-    implementation 'com.spartronics4915.lib:ftc265:2.1.0'
+    implementation 'com.spartronics4915.lib:ftc265:2.1.2'
 }
 

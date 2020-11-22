@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/techbrickftc/bluerobot/TeamCode/build/intermediates/res/merged/debug/raw_readme.md.flat",
-        "source": "/home/techbrickftc/bluerobot/TeamCode/src/main/res/raw/readme.md"
+        "merged": "C:\\Users\\spari\\Documents\\Techbrick\\vslamcam\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml_teamwebcamcalibrations.xml.flat",
+        "source": "C:\\Users\\spari\\Documents\\Techbrick\\vslamcam\\TeamCode\\src\\main\\res\\xml\\teamwebcamcalibrations.xml"
     },
     {
-        "merged": "/home/techbrickftc/bluerobot/TeamCode/build/intermediates/res/merged/debug/xml_teamwebcamcalibrations.xml.flat",
-        "source": "/home/techbrickftc/bluerobot/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml"
+        "merged": "C:\\Users\\spari\\Documents\\Techbrick\\vslamcam\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw_readme.md.flat",
+        "source": "C:\\Users\\spari\\Documents\\Techbrick\\vslamcam\\TeamCode\\src\\main\\res\\raw\\readme.md"
     }
 ]

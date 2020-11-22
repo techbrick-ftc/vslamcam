@@ -1,15 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.arcrobotics:ftclib:1.0.1@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f5e7efaf919e83744cc46c3b40d7da72/jetified-ftclib-1.0.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f5e7efaf919e83744cc46c3b40d7da72/jetified-ftclib-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f5e7efaf919e83744cc46c3b40d7da72/jetified-ftclib-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27c6c0eeae6ef989a9e52f3763a66971/jetified-ftclib-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27c6c0eeae6ef989a9e52f3763a66971/jetified-ftclib-1.0.1/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.arcrobotics/ftclib/1.0.1/e1210d33dd195ac7d8107d53c7ece6efecf21ed8/ftclib-1.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arcrobotics/ftclib/1.0.1/eb2a64448ef590aa41bae197f7821824090ab6b4/ftclib-1.0.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.arcrobotics/ftclib/1.0.1/a752add211cc1e368ddaed12d0b7cb8bf8d0e9f2/ftclib-1.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arcrobotics/ftclib/1.0.1/4ce005483bbedd2d2c76fc2121d5deedd6602d29/ftclib-1.0.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
