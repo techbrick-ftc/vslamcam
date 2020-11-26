@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.spartronics4915.lib:ftc265:2.1.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dae5b98c86302c35b10463c180a8410d/jetified-ftc265-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dae5b98c86302c35b10463c180a8410d/jetified-ftc265-2.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dae5b98c86302c35b10463c180a8410d/jetified-ftc265-2.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

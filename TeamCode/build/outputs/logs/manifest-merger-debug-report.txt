@@ -11,8 +11,8 @@ MERGED from [org.firstinspires.ftc:Hardware:6.0.1] /home/techbrickftc/.gradle/ca
 MERGED from [org.firstinspires.ftc:FtcCommon:6.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/1af8e4560487e7249d99e5156a77e036/jetified-FtcCommon-6.0.1/AndroidManifest.xml:3:1-235:12
 MERGED from [:tfod-release:] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/5fab9b383ed9a29bd9ec24ccffc48ca0/jetified-tfod-release/AndroidManifest.xml:2:1-11:12
 MERGED from [:tensorflow-lite-0.0.0-nightly:] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/8de39f8baae639b9b1caa67458fd4c35/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:2:1-6:12
-MERGED from [com.spartronics4915.lib:ftc265:2.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/2a088b03596b5f0cdf6fe0b19f371cc1/jetified-ftc265-2.0.1/AndroidManifest.xml:2:1-13:12
-MERGED from [com.arcrobotics:ftclib:2.0.11] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/5b0398e79c0224380e20b7f0ec734943/jetified-ftclib-2.0.11/AndroidManifest.xml:2:1-11:12
+MERGED from [com.spartronics4915.lib:ftc265:2.1.2] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/dae5b98c86302c35b10463c180a8410d/jetified-ftc265-2.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.arcrobotics:ftclib:1.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/f5e7efaf919e83744cc46c3b40d7da72/jetified-ftclib-1.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [org.openftc:easyopencv:1.4.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/18368316aad22c49710e3a4b0e403564/jetified-easyopencv-1.4.1/AndroidManifest.xml:2:1-11:12
 MERGED from [org.firstinspires.ftc:Inspection:6.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/897e84df2ae5460309033705772e6fc5/jetified-Inspection-6.0.1/AndroidManifest.xml:2:1-32:12
 MERGED from [org.firstinspires.ftc:Blocks:6.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/c75f82e8242e557dc6ab4fb0ce44c893/jetified-Blocks-6.0.1/AndroidManifest.xml:2:1-26:12
@@ -111,10 +111,10 @@ MERGED from [org.firstinspires.ftc:FtcCommon:6.0.1] /home/techbrickftc/.gradle/c
 MERGED from [org.firstinspires.ftc:FtcCommon:6.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/1af8e4560487e7249d99e5156a77e036/jetified-FtcCommon-6.0.1/AndroidManifest.xml:8:5-10:41
 MERGED from [:tfod-release:] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/5fab9b383ed9a29bd9ec24ccffc48ca0/jetified-tfod-release/AndroidManifest.xml:7:5-9:41
 MERGED from [:tfod-release:] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/5fab9b383ed9a29bd9ec24ccffc48ca0/jetified-tfod-release/AndroidManifest.xml:7:5-9:41
-MERGED from [com.spartronics4915.lib:ftc265:2.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/2a088b03596b5f0cdf6fe0b19f371cc1/jetified-ftc265-2.0.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.spartronics4915.lib:ftc265:2.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/2a088b03596b5f0cdf6fe0b19f371cc1/jetified-ftc265-2.0.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.arcrobotics:ftclib:2.0.11] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/5b0398e79c0224380e20b7f0ec734943/jetified-ftclib-2.0.11/AndroidManifest.xml:7:5-9:41
-MERGED from [com.arcrobotics:ftclib:2.0.11] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/5b0398e79c0224380e20b7f0ec734943/jetified-ftclib-2.0.11/AndroidManifest.xml:7:5-9:41
+MERGED from [com.spartronics4915.lib:ftc265:2.1.2] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/dae5b98c86302c35b10463c180a8410d/jetified-ftc265-2.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.spartronics4915.lib:ftc265:2.1.2] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/dae5b98c86302c35b10463c180a8410d/jetified-ftc265-2.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.arcrobotics:ftclib:1.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/f5e7efaf919e83744cc46c3b40d7da72/jetified-ftclib-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.arcrobotics:ftclib:1.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/f5e7efaf919e83744cc46c3b40d7da72/jetified-ftclib-1.0.1/AndroidManifest.xml:7:5-9:41
 MERGED from [org.openftc:easyopencv:1.4.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/18368316aad22c49710e3a4b0e403564/jetified-easyopencv-1.4.1/AndroidManifest.xml:7:5-9:41
 MERGED from [org.openftc:easyopencv:1.4.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/18368316aad22c49710e3a4b0e403564/jetified-easyopencv-1.4.1/AndroidManifest.xml:7:5-9:41
 MERGED from [org.firstinspires.ftc:Inspection:6.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/897e84df2ae5460309033705772e6fc5/jetified-Inspection-6.0.1/AndroidManifest.xml:7:5-9:41
@@ -337,8 +337,8 @@ ADDED from [org.firstinspires.ftc:RobotCore:6.0.1] /home/techbrickftc/.gradle/ca
 		ADDED from [org.firstinspires.ftc:RobotCore:6.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/0482513baccc32f6fbd2547409ec7d7a/jetified-RobotCore-6.0.1/AndroidManifest.xml:53:9-52
 uses-permission#android.permission.CAMERA
 ADDED from [org.firstinspires.ftc:RobotCore:6.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/0482513baccc32f6fbd2547409ec7d7a/jetified-RobotCore-6.0.1/AndroidManifest.xml:55:5-65
-MERGED from [com.spartronics4915.lib:ftc265:2.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/2a088b03596b5f0cdf6fe0b19f371cc1/jetified-ftc265-2.0.1/AndroidManifest.xml:11:5-65
-MERGED from [com.spartronics4915.lib:ftc265:2.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/2a088b03596b5f0cdf6fe0b19f371cc1/jetified-ftc265-2.0.1/AndroidManifest.xml:11:5-65
+MERGED from [com.spartronics4915.lib:ftc265:2.1.2] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/dae5b98c86302c35b10463c180a8410d/jetified-ftc265-2.1.2/AndroidManifest.xml:11:5-65
+MERGED from [com.spartronics4915.lib:ftc265:2.1.2] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/dae5b98c86302c35b10463c180a8410d/jetified-ftc265-2.1.2/AndroidManifest.xml:11:5-65
 	android:name
 		ADDED from [org.firstinspires.ftc:RobotCore:6.0.1] /home/techbrickftc/.gradle/caches/transforms-2/files-2.1/0482513baccc32f6fbd2547409ec7d7a/jetified-RobotCore-6.0.1/AndroidManifest.xml:55:22-62
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
